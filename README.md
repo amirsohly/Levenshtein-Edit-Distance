@@ -1,6 +1,9 @@
 # Levenshtein-Edit-Distance
 This code calculates the Levenshtein distance between two input strings.
 
+![Screenshot](https://github.com/amirsohly/Levenshtein-Edit-Distance/assets/47668516/b76f2d56-703b-41e2-a574-0d473694e92d)
+
+
 ## 1
 The dist function takes two input strings, X and Y, and calculates their Levenshtein distance. The Levenshtein distance is the minimum number of operations (insertion, deletion, or substitution) required to transform one string into another.
 ## 2
